@@ -38,7 +38,7 @@ void donut(void)
     }
 
     rt_kprintf("\033[?25l"); // hide cursor
-    rt_kprintf("Have a donut!\r\n")
+    rt_kprintf("Have a donut!\r\n");
 
     while(1)
     {
