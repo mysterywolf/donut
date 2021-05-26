@@ -11,12 +11,13 @@
 相关视频：https://www.bilibili.com/video/BV1MZ4y1w78o
 
 
-在ENV工具的配置方法：
+
+## 如何获取软件包
 
 ```
  RT-Thread online packages  --->
     miscellaneous packages  --->
-        games: games run on RT-Thread console  --->
+        entertainment: terminal games and other interesting software packages  --->
             [*] donut: a 3D spinning donut
 ```
 
