@@ -8,7 +8,9 @@
 
 作者Twitter：https://twitter.com/a1k0n
 
-相关视频：https://www.bilibili.com/video/BV1MZ4y1w78o
+相关视频：   
+https://www.bilibili.com/video/BV1MZ4y1w78o   
+https://www.youtube.com/watch?v=sW9npZVpiMI 
 
 
 
