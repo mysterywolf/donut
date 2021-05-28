@@ -26,9 +26,10 @@ Meco Man
 
 jiantingman@foxmail.com
 
-https://github.com/mysterywolf/aclock
+https://github.com/mysterywolf/donut
 
 > 原作者：https://www.a1k0n.net/2021/01/13/optimizing-donut.html
+> 
 > 作者Twitter：https://twitter.com/a1k0n
 
 相关视频：   
