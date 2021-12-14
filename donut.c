@@ -65,7 +65,7 @@ void donut(void)
                     N = (-cA*x7 - cB*((-sA*x7>>10) + x2) - ci*(cj*sB >> 10) >> 10) - x5 >> 7;
 
                 int o = x + 80 * y;
-                int8_t zz = (x6-K2)>>15;
+                rt_int8_t zz = (x6-K2)>>15;
                 if (22 > y && y > 0 && x > 0 && 80 > x && zz < z[o])
                 {
                     z[o] = zz;
